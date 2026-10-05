@@ -1,0 +1,21 @@
+# GUI Framework
+PyQt6
+
+# Data Processing & Math
+numpy>=1.23.0
+pandas
+scipy
+
+# Serial Communication
+pyserial
+
+# Plotting
+pyqtgraph
+matplotlib
+
+# Deep Learning
+# Biarkan pip memilih tensorflow yang cocok dengan hardware (CPU/GPU) pengguna
+tensorflow
+
+# Reporting
+python-docx
